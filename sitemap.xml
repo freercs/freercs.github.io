@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://freercs.github.io/categories/</loc>
+    <loc>http://freercs.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://freercs.github.io/</loc>
+    <loc>http://freercs.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
